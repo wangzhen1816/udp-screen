@@ -1,0 +1,5 @@
+\\Mac\Home\my\work\wpf\好例子网_screen-cast\screen-cast2\bin\Debug\PacketHelper.dll
+\\Mac\Home\my\work\wpf\好例子网_screen-cast\screen-cast2\bin\Debug\PacketHelper.pdb
+\\Mac\Home\my\work\wpf\好例子网_screen-cast\screen-cast2\PacketHelper\obj\Debug\PacketHelper.cs.csproj.CopyComplete
+\\Mac\Home\my\work\wpf\好例子网_screen-cast\screen-cast2\PacketHelper\obj\Debug\PacketHelper.dll
+\\Mac\Home\my\work\wpf\好例子网_screen-cast\screen-cast2\PacketHelper\obj\Debug\PacketHelper.pdb
